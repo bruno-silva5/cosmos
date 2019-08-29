@@ -464,7 +464,7 @@ header nav a:first-of-type {
 
 .team h3 {
   color: rgba(255, 255, 255, 0.8);
-  margin-bottom: 0;
+  margin-bottom: 2em;
 }
 
 .team .profile {
@@ -475,7 +475,7 @@ header nav a:first-of-type {
 
 .team .profile h2 {
   font-weight: normal;
-  margin: 0.5em 0 0.2em;
+  margin: 0.5em auto 0.2em;
 }
 
 .team .profile h4 {
