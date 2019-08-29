@@ -268,6 +268,7 @@ header nav a:first-of-type {
     margin: 0;
     text-transform: uppercase;
     font-size: 2.5em;
+    margin-bottom: -1em;
   }
   .home .introduction p {
     position: relative;
@@ -275,7 +276,7 @@ header nav a:first-of-type {
     width: 100%;
     max-width: 440px;
     margin: 0;
-    margin-top: -15%;
+    margin-top: -2em;
   }
   .home .introduction a {
     position: relative;
@@ -283,7 +284,6 @@ header nav a:first-of-type {
     color: #FF00D5;
     border: 1px solid #FF00D5;
     margin: 0;
-    margin-top: -12%;
     font-size: 1.3em;
     text-transform: uppercase;
     -webkit-transition: 0.3s;
