@@ -673,6 +673,13 @@ footer a {
   width: 100%;
   text-indent: 1em;
   margin: 1.3em 0;
+  text-align: justify;
+  padding: 0 0.5em;
+  -webkit-hyphens: auto;
+      -ms-hyphens: auto;
+          hyphens: auto;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 
 .modal .modal-content > span {

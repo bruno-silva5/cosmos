@@ -549,6 +549,10 @@ footer {
             width: 100%;
             text-indent: 1em;
             margin: 1.3em 0;
+            text-align: justify;
+            padding: 0 0.5em;
+            hyphens: auto;
+            box-sizing: border-box;
         }
     }
     .modal-content>span {
